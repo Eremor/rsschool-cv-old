@@ -1,10 +1,13 @@
 # Smirnov Artem
+
 ## Contact info:
 * __City:__ Kazan
 * __Email:__ eremid@yahoo.com
 * __Skype:__ set..13
+
 ## Summary
 My main goal is to change professional activities. At the moment, I work as a systems engineer and I understand that I have come to the point where I do not have enough current work intellectually, therefore, I began to actively study programming. For these purposes, I try to allocate as much time as possible and "absorb" the information with great zeal.
+
 ## Skills
 * HTML5
 * CSS3
@@ -12,8 +15,9 @@ My main goal is to change professional activities. At the moment, I work as a sy
 * BEM
 * Sass
 * Bootstrap
+
 ## Code examples
-```
+```JavaScript
 var list = document.querySelector('.todo-list');
 var items = list.children;
 var emptyListMessage = document.querySelector('.empty-tasks');
@@ -52,8 +56,10 @@ newItemForm.addEventListener('submit', function (evt) {
   list.appendChild(task);
 });
 ```
+
 ## Experience
 Examples of my work are available here: [GitHub](https://github.com/Eremor?tab=repositories)
+
 ## Education
 I graduated from Almetyevsk State Oil Institute with a degree in industrial control system
 Also, during my professional career, I took many courses at companies:
@@ -63,4 +69,5 @@ Also, during my professional career, I took many courses at companies:
 * Veeam
 * Oracle
 * HTMLacademy
+
 ## English - A1
