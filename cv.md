@@ -13,7 +13,7 @@ My main goal is to change professional activities. At the moment, I work as a sy
 * Sass
 * Bootstrap
 ## Code examples
-```javascript
+```
 var list = document.querySelector('.todo-list');
 var items = list.children;
 var emptyListMessage = document.querySelector('.empty-tasks');
